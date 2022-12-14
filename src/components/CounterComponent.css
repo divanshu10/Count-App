@@ -1,0 +1,38 @@
+body{
+    background-image:linear-gradient(to right,rgb(202, 165, 202),rgb(117, 134, 141));
+    /* background-color: rgb(202, 165, 202); */
+}
+.card-body{
+    width: 400px;
+    height:500px;
+    margin:50px auto;
+    box-sizing: border-box;
+    border-radius: 30px;
+    color: rgb(197, 85, 85);
+    background-image:linear-gradient(to right,rgb(117, 134, 141),rgb(100, 67, 100));
+    padding: 20px;
+    font-weight:bolder;
+    box-shadow: 10px 10px 10px  rgb(68, 42, 66);
+}
+#header{
+    font-weight: 700;
+    font-size: 3.5em;
+}
+#button{
+    font-weight: 700;
+    font-size: 2em;
+    margin-top: 15px;
+    background-color: rgb(122, 114, 102);
+    
+}
+#zero{
+    font-weight: bolder;
+    font-size: 3.5em;
+    height: 80px;
+    width: 80px;
+    margin: auto;
+    border-radius: 30%;
+    background-color: rgb(129, 173, 218);
+    color: rgb(48, 43, 43);
+    
+}
